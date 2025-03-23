@@ -1,7 +1,9 @@
 ## Your Folder Structure Should Look like this 
-Root Folder
-|--- Frontend(clone frontend for this)
-|--- Venv(create python environment)[in this clone backend]
+# Project Structure
+
+- **Root Folder**
+  - **Frontend** (clone frontend for this)
+  - **Venv** (create Python environment) [in this clone backend]
 ## Installation
 # Backend
 1. Create a python virtual environment 
